@@ -35,7 +35,7 @@ Using HACS. More info [here](https://hacs.xyz/)
 
 Manually in HACS  
 Follow the link [here](https://hacs.xyz/docs/faq/custom_repositories/)  
-Use the custom repo link `https://github.com/oziee/ha-solcast-solar`  
+Use the custom repo link `https://github.com/Dehumanizer77/ha-solcast-solar`  
 Select the category type `integration`  
 Then once it's there (still in HACS) click the INSTALL button  
 Then go to the HA Devices and Services and add a new Solcast Integration  
@@ -253,3 +253,4 @@ Modified from the great works of
 * dannerph/homeassistant-solcast
 * cjtapper/solcast-py
 * home-assistant-libs/forecast_solar
+* @oziee - Thanks for your work, such a shame you had to burn it down the way you did
